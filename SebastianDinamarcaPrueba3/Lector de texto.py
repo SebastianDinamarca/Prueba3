@@ -1,3 +1,5 @@
+print("Porfavor modificar el archivo 'archivo
+txt' para leer texto")
 archivo= open( "Archivo.txt", "r")
 texto=archivo.read()
 contador=0

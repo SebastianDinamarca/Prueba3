@@ -1,4 +1,4 @@
-archivo= open( "aaa.txt", "r")
+archivo= open( "Archivo.txt", "r")
 texto=archivo.read()
 contador=0
 for letra in texto:
